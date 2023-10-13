@@ -32,3 +32,4 @@
 
 
 ## - Sistem Keluar Parkir
+![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/0acd8b55-a3a7-492e-8f78-a17acf5c0dc2)
