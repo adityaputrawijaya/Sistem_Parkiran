@@ -28,5 +28,7 @@
 
 # 5. Sequence Diagramnya
 ## - Sistem Masuk Parkir
+![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/abc185db-e1bf-4d46-be04-9b61e90130c8)
+
 
 ## - Sistem Keluar Parkir
