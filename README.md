@@ -19,11 +19,11 @@
 
 # 4. Activity Diagramnya
 ## - Sistem Masuk Parkir
-![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/87b9f49e-4dea-41c6-af65-ca1b67a6526f)
+![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/48219d14-d76d-4495-b454-cae31e431127)
 
 
 ## - Sistem Keluar Parkir
-![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/d3f21b93-a221-4692-90b2-8273aa86680f)
+![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/3dc43f1c-5ea5-423f-91cb-6dbcca63a642)
 
 
 # 5. Sequence Diagramnya
