@@ -12,13 +12,15 @@
 ## - Sistem Masuk Parkir
 ![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/aede258a-e910-42fb-8845-b99e86285002)
 
-## - Usecase Masuk Pengendara
+## - Pengendara Masuk
 ![Use Case Parkiran masuk pengguna](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/1a632dc5-006a-41c1-a5eb-776c1614f2fb)
-
 
 
 ## - Sistem Keluar Parkir
 ![image](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/d26460be-73cc-44e6-8164-485d5967ed82)
+
+## - Pengendara Keluar
+![Use Case Parkiran keluar pengendara baru](https://github.com/adityaputrawijaya/Sistem_Parkiran/assets/115687055/cdfe3df1-07a9-4599-9be8-d46b0d8879ee)
 
 
 # 4. Activity Diagramnya
