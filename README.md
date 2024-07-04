@@ -1,6 +1,6 @@
 # 1. Sistem_Parkiran
 
-# 2. Analis
+# 2. Analisa
 ## A. Permasalahan:
 - Admin menghadapi kesulitan dalam mengelola tempat parkir, seperti pemantauan penggunaan, menangani konflik parkir, atau menghasilkan laporan yang akurat.
 
